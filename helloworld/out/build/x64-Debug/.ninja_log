@@ -1,0 +1,4 @@
+# ninja log v5
+2	9	0	clean	8c45b54705a541e8
+2	268	7392043433339571	CMakeFiles/HelloWorld.dir/main.cpp.obj	7548069719d2651d
+268	1003	7392043435534530	HelloWorld.exe	5a65a1428a64e960
